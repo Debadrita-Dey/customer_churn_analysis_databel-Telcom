@@ -15,4 +15,5 @@ An interactive Power BI dashboard to analyze and visualize customer churn patter
 - Month-to-Month contracts → **46% churn**.  
 - Senior demographics have **38% churn rate**.  
 - Competitor made better offers  → top churn reasons.  
-
+- Number of churned customers and customers by churn rate in states.
+- Churn rate by contract category and gender.
